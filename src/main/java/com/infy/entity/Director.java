@@ -17,7 +17,6 @@ import javax.persistence.ManyToMany;
 public class Director {
 
 	
-	
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
     private Integer Director_Id;
