@@ -4,6 +4,7 @@ import com.infy.entity.Director;
 
 public class DirectorDTO {
 
+
 	
 
     private Integer Director_Id;
@@ -14,6 +15,7 @@ public class DirectorDTO {
 	private Long contactNumber;
 	
 
+	
 	
 	public DirectorDTO(String firstName, String lastName, String address, String email, Long contactNumber) {
 		super();
