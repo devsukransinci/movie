@@ -1,6 +1,5 @@
 Features
 
-User-Friendly Interface: Intuitive and easy-to-navigate interface for a seamless user experience.
 Movie Discovery: Browse and search for movies with ease.
 Booking System: Effortlessly book tickets for your favorite movies.
 User Management: Create and manage user accounts.
